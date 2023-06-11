@@ -14,6 +14,8 @@ module.exports = {
             neutral3: 'hsl(216, 12%, 54%)',
             neutral4: 'hsl(213, 19%, 18%)',
             neutral5: 'hsl(216, 12%, 8%)',
+            radial1: 'hsl(215, 12%, 12%)',
+            radial2: 'hsl(215, 25%, 12%)',
         },
         fontSize: {
             sm: '0.8rem',
