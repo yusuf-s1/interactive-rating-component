@@ -50,5 +50,5 @@ First TailwindCSS & JQuery project. I learned basic usage of Tailwind and JQuery
 
 ## Author
 
--   Website - [Add your name here](https://yusufs.w3spaces.com/)
+-   Website - [yusufs](https://yusufs.w3spaces.com/)
 -   Frontend Mentor - [@yusfsqrtof](https://www.frontendmentor.io/profile/yusfsqrtof)
