@@ -45,8 +45,7 @@ First TailwindCSS & JQuery project. I learned basic usage of Tailwind and JQuery
 ### Useful resources
 
 -   [Tailwind CSS Docs](https://tailwindcss.com/docs/installation)
--   [Jquery Tutorial](https://www.example.com) - I'd recommend it to anyone to learn basic JQuery.
-    Note: Delete this note and replace the list above with resources that helped you during the challenge. These could come in handy for anyone viewing your solution or for yourself when you look back on this project in the future.\*\*
+-   [Jquery Tutorial](https://www.example.com)
 
 ## Author
 
